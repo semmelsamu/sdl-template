@@ -1,8 +1,6 @@
 #include <iostream>
 #include <SDL2/SDL.h>
 
-// Source: https://youtu.be/jUZZC9UXyFs
-
 const int WIDTH = 800, HEIGHT = 600;
 
 int main(int argc, char* argv[])
