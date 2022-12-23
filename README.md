@@ -1,8 +1,8 @@
 # Prerequisites
 
-- [https://code.visualstudio.com/](Visual Studio Code)
-- [https://marketplace.visualstudio.com/items?itemName=ms-vscode.makefile-tools](Makefile Tools)
-- [https://github.com/libsdl-org/SDL/releases](SDL2)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Makefile Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.makefile-tools)
+- [SDL 2](https://github.com/libsdl-org/SDL/releases)
 
 # How to work with this template
 
