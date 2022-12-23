@@ -13,3 +13,7 @@
 4. Copy `include` and `lib` to the `src` directory.
 5. Copy `bin/SDL2.dll` to your project directory.
 6. To compile, open a new terminal in your project directory and type in `mingw32-make`.
+
+# Source
+
+[](https://youtu.be/jUZZC9UXyFs)
